@@ -1,6 +1,10 @@
+@import url(http://fonts.googleapis.com/css?family=Lato);
 $body-bg: 		#2980b9;
 $navbar-default-link-color:		white;
+$navbar-default-link-hover-color:		#f1c40f;
 $navbar-default-bg:		#2c3e50;
 $jumbotron-bg:		#f1c40f;
 $btn-primary-bg:	#7f8c8d;
+$font-family-sans-serif:  'Lato', sans-serif;
+
 @import 'bootstrap';
